@@ -6,7 +6,6 @@
  * @name: dog's name
  * @age; dog's age
  * @owner; owner's name
- *
  * Description; just a long dog struct in a big kitty world
  */
 struct dog
