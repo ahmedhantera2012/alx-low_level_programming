@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * min - print name of this source file
+ * main - print name of of this source file
  *
  * Return: Always 0.
  */
