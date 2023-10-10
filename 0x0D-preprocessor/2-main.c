@@ -3,7 +3,7 @@
 /**
  * main - print name of of this source file
  *
- * Return: Always 0.
+ * Return: Always 0
 */
 int main (void)
 {
